@@ -10,8 +10,8 @@ All the instructions mentioned in the pdf have been implemented in the assembler
  
  
  # Running instructions 
- 1.Clone the repository 
- 2.Open assembly.py and change the filename variable on line 28 to the filename that you have created and want to simualte.
+ 1.Clone the repository <br/>
+ 2.Open assembly.py and change the filename variable on line 28 to the filename that you have created and want to simualte.<br/>
  3.Run "python3 Simulator.py" in the command line.
  
  
