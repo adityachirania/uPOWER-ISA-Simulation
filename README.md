@@ -13,5 +13,5 @@ All the instructions mentioned in the pdf have been implemented in the assembler
  1.Clone the repository <br/>
  2.Open assembly.py and change the filename variable on line 28 to the filename that you have created and want to simualte.<br/>
  3.Run "python3 Simulator.py" in the command line.
- 
+ 4.The binary code of each equivalent intstruction shall be written in a file called something.txt.
  
