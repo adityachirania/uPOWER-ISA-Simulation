@@ -6,9 +6,12 @@ Also present is behavioural implementation of the microprocessor in verilog.
 All the instructions mentioned in the pdf have been implemented in the assembler. The assembler is a 2 pass assembler that maps all labels to their addresses in memory the first pass. In the second pass the instructions are converted to binary code.The memory contents and binary codes are passed to the simulator and the simulator executes them one by one. 
 
 # To sample codes that this simulator simulates 
- something.s - Sums up the elements of an array
- hello.s - Prints hello world with the help of a system call
+- something.s - Sums up the elements of an array
+- hello.s - Prints hello world with the help of a system call
  
+# Video Demos of the simulations are also availible on : 
+- https://youtu.be/MCr6ZGgKVrc (Demo of the python based simulator) 
+- https://youtu.be/3gv1E0ndNEQ (Hardware based simulator in verilog) 
  
  # Running instructions 
  1.Clone the repository <br/>
