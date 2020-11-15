@@ -1,5 +1,5 @@
 # uPOWER-ISA-Simulation
-An Simulator that parses assembly level code of uPOWER instruction set, converts to object code and then simulates its execution 
+A Simulator that parses assembly level code of uPOWER instruction set, converts to object code and then simulates its execution 
 Also present is behavioural implementation of the microprocessor in verilog.
 
 # Instructions that have been implemented in the assembler
